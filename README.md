@@ -24,3 +24,4 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 <img src="ScreenShots/Formulaire d'ajout d'un apprenant.png">
 
 ***Gestion des formateurs :*** L'admin pourra ajouter, modifier, rechercher un formateur &  affecter un formateur pour enseigner un cours particulier. 
+<img src="ScreenShots/Gestion des formateurs.png">
