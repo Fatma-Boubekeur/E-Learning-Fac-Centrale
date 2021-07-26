@@ -18,4 +18,4 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 
 
 ***Gestion des apprenants :*** L'admin pourra ajouter, modifier, rechercher un apprenant. 
-<img src="ScreenShots/">
+<img src="ScreenShots/Gérer les apprenants.png">
