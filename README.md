@@ -28,3 +28,10 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 
 ***Formulaire d'ajout d'un formateur :*** 
 <img src="ScreenShots/Formulaire d'ajout d'un formateur.png">
+
+**Affecter un formateur :** Affecter formateur aux cours  qu’il  doit  enseigner. 
+<img src="ScreenShots/Affecter un formateur.png">
+
+
+
+
