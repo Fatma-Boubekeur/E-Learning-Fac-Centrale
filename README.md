@@ -8,4 +8,4 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 <img src="ScreenShots/Page d'acceuil.png">
 
 ***Espace administrateur :*** Il peut gérer les membres, les formations disponibles, gérer son profil, accéder au forum & se déconnecter. 
-<img src="ScreenShots/">
+<img src="ScreenShots/Espace administrateur.png">
