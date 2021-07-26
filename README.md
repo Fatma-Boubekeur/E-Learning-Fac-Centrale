@@ -13,5 +13,5 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 ***Espace administrateur :*** Il peut gérer les membres, les formations disponibles, gérer son profil, accéder au forum & se déconnecter. 
 <img src="ScreenShots/Espace administrateur.png">
 
-**Gérer les membres : ** Il peut gérer les apprenants (étudiants) & les formateurs (les enseignants). 
+**Gérer les membres :** Il peut gérer les apprenants (étudiants) & les formateurs (les enseignants). 
 <img src="ScreenShots/Gérer les membres.png">
