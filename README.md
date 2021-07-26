@@ -6,3 +6,5 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 
 ***Page d’accueil :*** C'est la page de connexion, avant de pouvoir accéder à son espace l’utilisateur doit d’abord s’authentifier. 
 <img src="ScreenShots/Page d'acceuil.png">
+
+***Espace administrateur :*** Il peut gérer les membres, les formations disponibles, gérer son profil, accéder au forum & se déconnecter. 
