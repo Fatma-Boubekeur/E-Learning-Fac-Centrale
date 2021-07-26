@@ -19,3 +19,6 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 
 ***Gestion des apprenants :*** L'admin pourra ajouter, modifier, rechercher un apprenant. 
 <img src="ScreenShots/Gérer les apprenants.png">
+
+***Formulaire d'ajout d'un apprenant***
+<img src="ScreenShots/Formulaire d'ajout d'un apprenant.png">
