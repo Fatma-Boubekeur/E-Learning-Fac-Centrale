@@ -33,8 +33,12 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 <img src="ScreenShots/Affecter un formateur.png">
 
 
-****Gestion des formations :*** Il peut ajouter, modifier & supprimer les formations & les niveaux de chaque formation.
+***Gestion des formations :*** Il peut ajouter, modifier & supprimer les formations & les niveaux de chaque formation.
 <img src="ScreenShots/Gestion des formations.png">
+
+
+
+***Espace formateur :*** il pourra gérer les cours, les quizs, gérer son profil, utiliser le forum & se déconnecter. 
 
 
 
