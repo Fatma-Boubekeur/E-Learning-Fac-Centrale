@@ -89,4 +89,8 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 <img src="ScreenShots/Les ressources du cours.png">
 
 
+***Passer Quiz :*** L'apprenant pourra passer un quiz en répondant à un ensemble de questions. 
+
+
+
 
