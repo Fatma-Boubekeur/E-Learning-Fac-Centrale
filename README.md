@@ -69,4 +69,10 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 
 ***Ajouter questions Choix Multiples :***
 <img src="ScreenShots/Ajouter qst choix multiple.png">
+<br/>
+<br/>
+<br/>
+<br/>
+***Espace Apprenant  :*** L'apprenant (étudiant) pourra consulter ses cours, passer les quizs, utiliser le forum, gérer son profil & se déconnecter. 
+
 
