@@ -1,2 +1,2 @@
-*.php linguist-language=Php
-
+* linguist-vendored
+*.php linguist-vendored=false
