@@ -74,5 +74,6 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 <br/>
 <br/>
 ***Espace Apprenant  :*** L'apprenant (étudiant) pourra consulter ses cours, passer les quizs, utiliser le forum, gérer son profil & se déconnecter. 
+<img src="ScreenShots/Espace Apprenant.png">
 
 
