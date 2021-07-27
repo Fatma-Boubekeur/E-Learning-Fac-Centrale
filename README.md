@@ -38,8 +38,9 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 
 
 
-***Espace formateur :*** il pourra gérer les cours, les quizs, gérer son profil, utiliser le forum & se déconnecter. 
 
+***Espace formateur :*** il pourra gérer les cours, les quizs, gérer son profil, utiliser le forum & se déconnecter. 
+<img src="ScreenShots/Espace Formateur.png">
 
 
 
