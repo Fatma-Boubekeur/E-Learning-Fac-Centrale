@@ -93,7 +93,7 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 <img src="ScreenShots/Passer Quiz.png">
 
 
-***Résultat du quiz :*** 
+***Résultat du quiz*** 
 <img src="ScreenShots/Résultat Quiz.png">
 
 
