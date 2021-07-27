@@ -44,7 +44,7 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 
 
 ***Gestion des cours :*** Le formateur pourra ajouter un nouveau chapitre au cours, ajouter des ressources (PDF, DOC,...) & consulter la liste des modules assurés par le formateur. 
-
+<img src="ScreenShots/Gestion des cours.png">
 
 
 
