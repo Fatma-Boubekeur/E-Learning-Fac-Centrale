@@ -47,5 +47,10 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 <img src="ScreenShots/Gestion des cours.png">
 
 
+***Ajouter un chapitre :*** Il peut ajouter des chapitres aux cours. 
+<img src="ScreenShots/Ajouter un chapitre.png">
 
+
+***Ajouter une ressource :*** Il peut ajouter des fichiers de type : PDF, DOC, PPT, vidéo(MP4), ...etc. 
+<img src="ScreenShots/Ajouter une ressource.png">
 
