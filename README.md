@@ -90,7 +90,10 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 
 
 ***Passer Quiz :*** L'apprenant pourra passer un quiz en répondant à un ensemble de questions. 
+<img src="ScreenShots/Passer Quiz.png">
 
 
+***Résultat du quiz : *** 
+<img src="ScreenShots/Résultat Quiz.png">
 
 
