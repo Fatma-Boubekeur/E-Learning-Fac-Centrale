@@ -78,5 +78,15 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 
 
 ***Mes cours :*** L'apprenant pourra consulter ses cours (les modules de sa formation) & accéder aux chapitres et ressources de chaque cours. 
+<img src="ScreenShots/Mes Cours.png">
+
+
+***Les chapitres du cours***
+<img src="ScreenShots/Chapitres du cours.png">
+
+
+***Les ressources du cours***
+<img src="ScreenShots/Les ressources du cours.png">
+
 
 
