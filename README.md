@@ -54,3 +54,5 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 ***Ajouter une ressource :*** Il peut ajouter des fichiers de type : PDF, DOC, PPT, vidéo(MP4), ...etc. 
 <img src="ScreenShots/Ajouter une ressource.png">
 
+
+***Gestion des quizs :*** Le formateur pourra ajouter un nouveau quiz en spécifiant son type (Vrai/Faux ou choix multiples), ajouter/modifier/supprimer les questions au quiz. 
