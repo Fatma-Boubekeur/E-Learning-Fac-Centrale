@@ -59,3 +59,14 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 <img src="ScreenShots/Gestion des quizs.png">
 
 
+***Ajouter un quiz :*** 
+<img src="ScreenShots/Ajouter quiz.png">
+
+
+***Ajouter questions Vrai ou Faux :***
+<img src="ScreenShots/Ajouter qst Vrai ou Faux.png">
+
+
+***Ajouter questions Choix Multiples :***
+<img src="ScreenShots/Ajouter qst choix multiple.png">
+
