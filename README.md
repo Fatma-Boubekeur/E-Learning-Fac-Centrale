@@ -55,7 +55,7 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 <img src="ScreenShots/Ajouter une ressource.png">
 
 
-***Gestion des quizs :*** Le formateur pourra ajouter un nouveau quiz en spécifiant son type (Vrai/Faux ou choix multiples), ajouter/modifier/supprimer les questions au quiz. 
+***Gestion des quizs :*** Le formateur pourra ajouter un nouveau quiz en spécifiant son type (Vrai/Faux ou choix multiples), ajouter/modifier/supprimer les questions du quiz. 
 <img src="ScreenShots/Gestion des quizs.png">
 
 
