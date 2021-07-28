@@ -95,5 +95,12 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 
 ***Résultat du quiz*** 
 <img src="ScreenShots/Résultat Quiz.png">
+<br/>
+<br/>
+<br/>
+<br/>
+***Espace commun de communication : Forum de discussions***
+
+
 
 
