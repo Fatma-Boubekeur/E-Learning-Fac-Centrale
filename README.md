@@ -100,7 +100,7 @@ Nous avons également utilisé le forum  open-source ***phpBB*** pour avoir un e
 <br/>
 <br/>
 ***Espace commun de communication : Forum de discussions***
-
+<img src="ScreenShots/Forum.png">
 
 
 
